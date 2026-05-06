@@ -1,8 +1,5 @@
 <div align="center">
 
-# 💫 About Me:
-Computer Science student with a strong foundation in programming and logical reasoning. Passionate about software development, open-source, and leveraging technology to solve real-world problems.<br>
-
 <img src="https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif" alt="Demo" />
 
 # 💻 Tech Stack:
