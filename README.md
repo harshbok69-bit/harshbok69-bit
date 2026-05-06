@@ -1,7 +1,6 @@
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif" alt="Demo" />
-<img width="1024" height="559" alt="ca008154-134c-44bf-8c3c-009fefbda237" src="https://github.com/user-attachments/assets/d29ce5bc-3eab-4dfd-bb58-810c212a9eca" />
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
